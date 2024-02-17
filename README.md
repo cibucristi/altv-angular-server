@@ -1,2 +1,2 @@
 # altv-angular-server
-alt:V Angular Server Files
+Stuck? Here are the server files to have a workaround ready. 🤝
