@@ -1,0 +1,47 @@
+[21:48:35] alt:V Server 16.0.0-dev.247 (dev)
+[21:48:35] Starting alt:V Server on [::]:7788
+[21:48:35][Warning] Found multiple executables for module js-module . Using "C:\\Users\\crist\\OneDrive\\Desktop\\altv-server\\modules\\js-module.dll"
+[21:48:35] Loading resource core
+[21:48:35] Loaded resource core
+[21:48:35] Required server permissions:
+[21:48:35] Optional server permissions:
+[21:48:35] Starting HTTP server on [::]:7788
+[21:48:35] Main thread started (ThreadId: 20200)
+[21:48:35] EntityStreamer thread started (ThreadId: 12040)
+[21:48:35] SyncSend thread started (ThreadId: 23956)
+[21:48:35] SyncSend thread started (ThreadId: 792)
+[21:48:35] SyncSend thread started (ThreadId: 20880)
+[21:48:35] SyncSend thread started (ThreadId: 12236)
+[21:48:35] SyncSend thread started (ThreadId: 11648)
+[21:48:35] SyncSend thread started (ThreadId: 14228)
+[21:48:35] SyncSend thread started (ThreadId: 20084)
+[21:48:35] SyncSend thread started (ThreadId: 8156)
+[21:48:35] SyncReceive thread started (ThreadId: 1104)
+[21:48:35] NetworkWorker #1 thread started (ThreadId: 17832)
+[21:48:35] SyncReceive thread started (ThreadId: 20072)
+[21:48:35] Console thread started (ThreadId: 2116)
+[21:48:35] SyncReceive thread started (ThreadId: 24336)
+[21:48:35] SyncReceive thread started (ThreadId: 24472)
+[21:48:35][Warning] Server started in debug mode
+[21:49:00] Sending accept 1 iamCibu
+[21:49:00] [1] iamCibu has connected to the server.
+[21:51:31][Warning] resourceManager.Update() took: 66 ms
+[22:01:08][Warning] resourceManager.Update() took: 62 ms
+[22:02:44][Warning] resourceManager.Update() took: 94 ms
+[22:05:47][Warning] resourceManager.Update() took: 61 ms
+[22:06:43][Warning] resourceManager.Update() took: 54 ms
+[22:09:52][Warning] resourceManager.Update() took: 56 ms
+[22:14:50][Warning] resourceManager.Update() took: 56 ms
+[22:30:35][Warning] resourceManager.Update() took: 74 ms
+[22:33:15][Warning] NetworkWorker 1 tick was too long: 64
+[22:33:38][Warning] resourceManager.Update() took: 54 ms
+[22:42:20][Warning] resourceManager.Update() took: 66 ms
+[22:43:19][Warning] resourceManager.Update() took: 54 ms
+[22:43:42][Warning] resourceManager.Update() took: 89 ms
+[22:46:14][Warning] resourceManager.Update() took: 70 ms
+[22:46:37][Warning] resourceManager.Update() took: 52 ms
+[22:55:44][Warning] resourceManager.Update() took: 51 ms
+[22:56:19][Warning] resourceManager.Update() took: 58 ms
+[22:57:14][Warning] resourceManager.Update() took: 105 ms
+[22:57:41][Warning] resourceManager.Update() took: 56 ms
+[22:58:59][Warning] resourceManager.Update() took: 57 ms
